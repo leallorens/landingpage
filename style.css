@@ -1,0 +1,78 @@
+body{
+  background-color: #FFEDDB;
+}
+
+h1
+ {
+  color: #B33030;
+  font-size: 40px;
+  font-family: calibri light;
+}
+
+h2 {
+  color: black;
+  font-size:  20px;
+  font-family:  calibri light;
+}
+
+h3 {
+  color: darkred;
+  font-size:  30px;
+  font-family:  calibri light;
+}
+
+.intro {
+  color:  darkred;
+  font-size: 15px;
+  font-family: calibri light;
+}
+
+.centreinteret {
+  color: darkred;
+  font-size:  20px;
+  font-family:  calibri light;
+}
+
+li {
+  color:  darkred;
+  font-size:  15px;
+  font-family:  calibri light;
+}
+
+.img_profile {
+  width: 250px;
+}
+
+.exphotos {
+  color: darkred;
+  font-size:  20px;
+  font-family:  calibri light;
+}
+
+.img_ex1{
+  width: 253px;
+}
+
+.img_ex2{
+  width: 259px;
+}
+
+.img_ex3{
+  width: 250px;
+}
+
+.img_ex4{
+  width: 250px;
+}
+
+.comptephotoinsta{
+  color: darkred;
+  font-size: 20px;
+  font-family:  calibri light;
+}
+
+#main-container{
+  margin:  100px;
+  padding:  50px;
+}
+
